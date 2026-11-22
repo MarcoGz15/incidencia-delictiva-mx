@@ -1,0 +1,508 @@
+﻿clave_entidad,estado,bien_juridico,tipo_delito,total_2024,total_2025,variacion_abs,variacion_pct,clasificacion,base_suficiente
+24,San Luis Potosí,Libertad personal,Secuestro,4,5,1,0.25,Negativo (subió),False
+24,San Luis Potosí,Libertad personal,Tráfico de menores,0,1,1,,Negativo (subió),False
+08,Chihuahua,La familia,Otros delitos contra la familia,65,66,1,0.015384615384615385,Negativo (subió),True
+04,Campeche,La familia,Otros delitos contra la familia,1,2,1,1.0,Negativo (subió),False
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,0,1,1,,Negativo (subió),False
+27,Tabasco,La libertad y la seguridad sexual,Acoso sexual,0,1,1,,Negativo (subió),False
+17,Morelos,La libertad y la seguridad sexual,Violación simple,459,460,1,0.002178649237472767,Negativo (subió),True
+16,Michoacán,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,0,1,1,,Negativo (subió),False
+01,Aguascalientes,La libertad y la seguridad sexual,Incesto,1,2,1,1.0,Negativo (subió),False
+29,Tlaxcala,Otros bienes jurídicos afectados (del fuero común),Amenazas,4,5,1,0.25,Negativo (subió),False
+16,Michoacán,La vida y la Integridad corporal,Aborto,13,14,1,0.07692307692307693,Negativo (subió),False
+26,Sonora,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,466,467,1,0.002145922746781116,Negativo (subió),True
+18,Nayarit,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,0,1,1,,Negativo (subió),False
+27,Tabasco,Libertad personal,Secuestro,36,37,1,0.027777777777777776,Negativo (subió),True
+27,Tabasco,Libertad personal,Tráfico de menores,0,1,1,,Negativo (subió),False
+18,Nayarit,La sociedad,Corrupción de menores,24,25,1,0.041666666666666664,Negativo (subió),False
+07,Chiapas,Libertad personal,Tráfico de menores,0,1,1,,Negativo (subió),False
+04,Campeche,La sociedad,Trata de personas,0,1,1,,Negativo (subió),False
+04,Campeche,Libertad personal,Secuestro,0,1,1,,Negativo (subió),False
+29,Tlaxcala,Otros bienes jurídicos afectados (del fuero común),Falsedad,0,1,1,,Negativo (subió),False
+10,Durango,Otros bienes jurídicos afectados (del fuero común),Electorales,5,6,1,0.2,Negativo (subió),False
+31,Yucatán,El patrimonio,Extorsión,1,2,1,1.0,Negativo (subió),False
+14,Jalisco,La libertad y la seguridad sexual,Violación simple,511,512,1,0.0019569471624266144,Negativo (subió),True
+16,Michoacán,La sociedad,Otros delitos contra la sociedad,1,2,1,1.0,Negativo (subió),False
+32,Zacatecas,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,1,2,1,1.0,Negativo (subió),False
+06,Colima,La libertad y la seguridad sexual,Violación equiparada,0,1,1,,Negativo (subió),False
+11,Guanajuato,La libertad y la seguridad sexual,Incesto,0,1,1,,Negativo (subió),False
+31,Yucatán,La libertad y la seguridad sexual,Acoso sexual,20,21,1,0.05,Negativo (subió),False
+29,Tlaxcala,La familia,Otros delitos contra la familia,1,2,1,1.0,Negativo (subió),False
+23,Quintana Roo,La sociedad,Corrupción de menores,149,150,1,0.006711409395973154,Negativo (subió),True
+30,Veracruz,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,4,5,1,0.25,Negativo (subió),False
+01,Aguascalientes,La libertad y la seguridad sexual,Violación equiparada,141,142,1,0.0070921985815602835,Negativo (subió),True
+31,Yucatán,La libertad y la seguridad sexual,Violación simple,45,46,1,0.022222222222222223,Negativo (subió),True
+31,Yucatán,La sociedad,Corrupción de menores,2,3,1,0.5,Negativo (subió),False
+05,Coahuila,La libertad y la seguridad sexual,Incesto,0,1,1,,Negativo (subió),False
+06,Colima,La sociedad,Otros delitos contra la sociedad,151,152,1,0.006622516556291391,Negativo (subió),True
+30,Veracruz,La sociedad,Otros delitos contra la sociedad,0,1,1,,Negativo (subió),False
+28,Tamaulipas,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,1,2,1,1.0,Negativo (subió),False
+20,Oaxaca,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,1,2,1,1.0,Negativo (subió),False
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,5,7,2,0.4,Negativo (subió),False
+10,Durango,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,11,13,2,0.18181818181818182,Negativo (subió),False
+03,Baja California Sur,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,256,258,2,0.0078125,Negativo (subió),True
+27,Tabasco,La libertad y la seguridad sexual,Violación equiparada,0,2,2,,Negativo (subió),False
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,3,5,2,0.6666666666666666,Negativo (subió),False
+17,Morelos,Libertad personal,Tráfico de menores,0,2,2,,Negativo (subió),False
+26,Sonora,La vida y la Integridad corporal,Aborto,5,7,2,0.4,Negativo (subió),False
+24,San Luis Potosí,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,2,4,2,1.0,Negativo (subió),False
+13,Hidalgo,Libertad personal,Rapto,1,3,2,2.0,Negativo (subió),False
+04,Campeche,La sociedad,Otros delitos contra la sociedad,3,5,2,0.6666666666666666,Negativo (subió),False
+07,Chiapas,La familia,Otros delitos contra la familia,0,2,2,,Negativo (subió),False
+12,Guerrero,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,208,210,2,0.009615384615384616,Negativo (subió),True
+31,Yucatán,Libertad personal,Otros delitos que atentan contra la libertad personal,0,2,2,,Negativo (subió),False
+30,Veracruz,La vida y la Integridad corporal,Aborto,11,13,2,0.18181818181818182,Negativo (subió),False
+05,Coahuila,La vida y la Integridad corporal,Aborto,0,2,2,,Negativo (subió),False
+20,Oaxaca,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,3,5,2,0.6666666666666666,Negativo (subió),False
+22,Querétaro,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,2,4,2,1.0,Negativo (subió),False
+29,Tlaxcala,La familia,Violencia de género en todas sus modalidades distinta a la violencia familiar,0,2,2,,Negativo (subió),False
+12,Guerrero,La libertad y la seguridad sexual,Hostigamiento sexual,15,17,2,0.13333333333333333,Negativo (subió),False
+32,Zacatecas,El patrimonio,Otros delitos contra el patrimonio,75,77,2,0.02666666666666667,Negativo (subió),True
+01,Aguascalientes,La vida y la Integridad corporal,Aborto,7,9,2,0.2857142857142857,Negativo (subió),False
+31,Yucatán,La vida y la Integridad corporal,Feminicidio,7,10,3,0.42857142857142855,Negativo (subió),False
+28,Tamaulipas,La vida y la Integridad corporal,Feminicidio,26,29,3,0.11538461538461539,Negativo (subió),False
+27,Tabasco,La sociedad,Trata de personas,1,4,3,3.0,Negativo (subió),False
+31,Yucatán,La familia,Otros delitos contra la familia,15,18,3,0.2,Negativo (subió),False
+20,Oaxaca,Libertad personal,Secuestro,19,22,3,0.15789473684210525,Negativo (subió),False
+20,Oaxaca,La vida y la Integridad corporal,Aborto,13,16,3,0.23076923076923078,Negativo (subió),False
+31,Yucatán,La libertad y la seguridad sexual,Abuso sexual,110,113,3,0.02727272727272727,Negativo (subió),True
+23,Quintana Roo,La vida y la Integridad corporal,Feminicidio,12,15,3,0.25,Negativo (subió),False
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,1,4,3,3.0,Negativo (subió),False
+11,Guanajuato,La vida y la Integridad corporal,Feminicidio,15,18,3,0.2,Negativo (subió),False
+10,Durango,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,75,78,3,0.04,Negativo (subió),True
+24,San Luis Potosí,La vida y la Integridad corporal,Aborto,12,15,3,0.25,Negativo (subió),False
+17,Morelos,La vida y la Integridad corporal,Aborto,9,12,3,0.3333333333333333,Negativo (subió),False
+17,Morelos,La sociedad,Trata de personas,1,4,3,3.0,Negativo (subió),False
+18,Nayarit,Otros bienes jurídicos afectados (del fuero común),Falsedad,20,23,3,0.15,Negativo (subió),False
+13,Hidalgo,La vida y la Integridad corporal,Aborto,9,12,3,0.3333333333333333,Negativo (subió),False
+12,Guerrero,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,24,27,3,0.125,Negativo (subió),False
+12,Guerrero,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,6,9,3,0.5,Negativo (subió),False
+09,Ciudad de México,Libertad personal,Secuestro,23,26,3,0.13043478260869565,Negativo (subió),False
+11,Guanajuato,Libertad personal,Secuestro,9,12,3,0.3333333333333333,Negativo (subió),False
+27,Tabasco,La libertad y la seguridad sexual,Incesto,0,3,3,,Negativo (subió),False
+13,Hidalgo,La libertad y la seguridad sexual,Acoso sexual,2,6,4,2.0,Negativo (subió),False
+30,Veracruz,Libertad personal,Secuestro,28,32,4,0.14285714285714285,Negativo (subió),False
+25,Sinaloa,Libertad personal,Secuestro,7,11,4,0.5714285714285714,Negativo (subió),False
+08,Chihuahua,El patrimonio,Extorsión,6,10,4,0.6666666666666666,Negativo (subió),False
+29,Tlaxcala,El patrimonio,Despojo,2,6,4,2.0,Negativo (subió),False
+26,Sonora,La sociedad,Trata de personas,0,4,4,,Negativo (subió),False
+26,Sonora,Libertad personal,Rapto,0,4,4,,Negativo (subió),False
+06,Colima,La vida y la Integridad corporal,Aborto,2,6,4,2.0,Negativo (subió),False
+06,Colima,La familia,Violencia familiar,4245,4249,4,0.0009422850412249705,Negativo (subió),True
+06,Colima,El patrimonio,Extorsión,138,142,4,0.028985507246376812,Negativo (subió),True
+29,Tlaxcala,La libertad y la seguridad sexual,Violación simple,14,18,4,0.2857142857142857,Negativo (subió),False
+08,Chihuahua,Otros bienes jurídicos afectados (del fuero común),Falsedad,237,242,5,0.02109704641350211,Negativo (subió),True
+25,Sinaloa,La libertad y la seguridad sexual,Violación equiparada,79,84,5,0.06329113924050633,Negativo (subió),True
+23,Quintana Roo,La sociedad,Otros delitos contra la sociedad,1,6,5,5.0,Negativo (subió),False
+11,Guanajuato,La familia,Otros delitos contra la familia,22,27,5,0.22727272727272727,Negativo (subió),False
+03,Baja California Sur,La familia,Otros delitos contra la familia,278,283,5,0.017985611510791366,Negativo (subió),True
+04,Campeche,La vida y la Integridad corporal,Feminicidio,6,11,5,0.8333333333333334,Negativo (subió),False
+30,Veracruz,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,251,256,5,0.0199203187250996,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,8,13,5,0.625,Negativo (subió),False
+18,Nayarit,Libertad personal,Secuestro,2,7,5,2.5,Negativo (subió),False
+18,Nayarit,El patrimonio,Otros delitos contra el patrimonio,6,11,5,0.8333333333333334,Negativo (subió),False
+32,Zacatecas,La sociedad,Corrupción de menores,25,30,5,0.2,Negativo (subió),False
+03,Baja California Sur,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,4,9,5,1.25,Negativo (subió),False
+16,Michoacán,La sociedad,Trata de personas,7,12,5,0.7142857142857143,Negativo (subió),False
+01,Aguascalientes,La familia,Violencia de género en todas sus modalidades distinta a la violencia familiar,14,19,5,0.35714285714285715,Negativo (subió),False
+08,Chihuahua,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,338,344,6,0.01775147928994083,Negativo (subió),True
+25,Sinaloa,La libertad y la seguridad sexual,Hostigamiento sexual,12,18,6,0.5,Negativo (subió),False
+07,Chiapas,La sociedad,Trata de personas,3,9,6,2.0,Negativo (subió),False
+06,Colima,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,218,224,6,0.027522935779816515,Negativo (subió),True
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Falsedad,11,17,6,0.5454545454545454,Negativo (subió),False
+18,Nayarit,La sociedad,Otros delitos contra la sociedad,14,20,6,0.42857142857142855,Negativo (subió),False
+31,Yucatán,Otros bienes jurídicos afectados (del fuero común),Falsedad,3,9,6,2.0,Negativo (subió),False
+09,Ciudad de México,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,13,19,6,0.46153846153846156,Negativo (subió),False
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Evasión de presos,3,9,6,2.0,Negativo (subió),False
+09,Ciudad de México,La familia,Otros delitos contra la familia,18,25,7,0.3888888888888889,Negativo (subió),False
+25,Sinaloa,La libertad y la seguridad sexual,Acoso sexual,216,223,7,0.032407407407407406,Negativo (subió),True
+18,Nayarit,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,19,26,7,0.3684210526315789,Negativo (subió),False
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,0,7,7,,Negativo (subió),False
+20,Oaxaca,La familia,Otros delitos contra la familia,227,234,7,0.030837004405286344,Negativo (subió),True
+11,Guanajuato,La libertad y la seguridad sexual,Hostigamiento sexual,71,78,7,0.09859154929577464,Negativo (subió),True
+28,Tamaulipas,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,370,377,7,0.01891891891891892,Negativo (subió),True
+06,Colima,La libertad y la seguridad sexual,Hostigamiento sexual,32,39,7,0.21875,Negativo (subió),True
+21,Puebla,La libertad y la seguridad sexual,Hostigamiento sexual,82,89,7,0.08536585365853659,Negativo (subió),True
+21,Puebla,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,23,31,8,0.34782608695652173,Negativo (subió),False
+16,Michoacán,La familia,Otros delitos contra la familia,43,51,8,0.18604651162790697,Negativo (subió),True
+06,Colima,Otros bienes jurídicos afectados (del fuero común),Falsificación,290,298,8,0.027586206896551724,Negativo (subió),True
+31,Yucatán,La vida y la Integridad corporal,Homicidio,201,209,8,0.03980099502487562,Negativo (subió),True
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Falsificación,58,66,8,0.13793103448275862,Negativo (subió),True
+26,Sonora,La libertad y la seguridad sexual,Violación equiparada,44,52,8,0.18181818181818182,Negativo (subió),True
+17,Morelos,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,7,15,8,1.1428571428571428,Negativo (subió),False
+07,Chiapas,La libertad y la seguridad sexual,Violación equiparada,7,16,9,1.2857142857142858,Negativo (subió),False
+19,Nuevo León,El patrimonio,Otros delitos contra el patrimonio,176,185,9,0.05113636363636364,Negativo (subió),True
+26,Sonora,Libertad personal,Secuestro,27,36,9,0.3333333333333333,Negativo (subió),False
+32,Zacatecas,La libertad y la seguridad sexual,Acoso sexual,137,146,9,0.06569343065693431,Negativo (subió),True
+01,Aguascalientes,El patrimonio,Despojo,387,396,9,0.023255813953488372,Negativo (subió),True
+20,Oaxaca,La sociedad,Trata de personas,6,15,9,1.5,Negativo (subió),False
+11,Guanajuato,La libertad y la seguridad sexual,Violación equiparada,93,102,9,0.0967741935483871,Negativo (subió),True
+22,Querétaro,La vida y la Integridad corporal,Feminicidio,4,14,10,2.5,Negativo (subió),False
+06,Colima,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,44,54,10,0.22727272727272727,Negativo (subió),True
+16,Michoacán,La vida y la Integridad corporal,Feminicidio,14,24,10,0.7142857142857143,Negativo (subió),False
+01,Aguascalientes,El patrimonio,Abuso de confianza,791,801,10,0.012642225031605562,Negativo (subió),True
+24,San Luis Potosí,La familia,Otros delitos contra la familia,2,12,10,5.0,Negativo (subió),False
+26,Sonora,El patrimonio,Despojo,286,296,10,0.03496503496503497,Negativo (subió),True
+04,Campeche,La libertad y la seguridad sexual,Violación equiparada,181,191,10,0.055248618784530384,Negativo (subió),True
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Electorales,13,23,10,0.7692307692307693,Negativo (subió),False
+25,Sinaloa,El patrimonio,Otros delitos contra el patrimonio,50,60,10,0.2,Negativo (subió),True
+31,Yucatán,Otros bienes jurídicos afectados (del fuero común),Falsificación,4,14,10,2.5,Negativo (subió),False
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Falsificación,139,149,10,0.07194244604316546,Negativo (subió),True
+29,Tlaxcala,El patrimonio,Extorsión,1,12,11,11.0,Negativo (subió),False
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,12,23,11,0.9166666666666666,Negativo (subió),False
+03,Baja California Sur,La libertad y la seguridad sexual,Violación equiparada,33,44,11,0.3333333333333333,Negativo (subió),True
+18,Nayarit,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,48,60,12,0.25,Negativo (subió),True
+28,Tamaulipas,La libertad y la seguridad sexual,Acoso sexual,136,148,12,0.08823529411764706,Negativo (subió),True
+28,Tamaulipas,El patrimonio,Extorsión,103,115,12,0.11650485436893204,Negativo (subió),True
+03,Baja California Sur,La familia,Violencia de género en todas sus modalidades distinta a la violencia familiar,7,19,12,1.7142857142857142,Negativo (subió),False
+32,Zacatecas,El patrimonio,Despojo,355,367,12,0.03380281690140845,Negativo (subió),True
+32,Zacatecas,El patrimonio,Abuso de confianza,293,305,12,0.040955631399317405,Negativo (subió),True
+05,Coahuila,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,6,18,12,2.0,Negativo (subió),False
+20,Oaxaca,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,1550,1563,13,0.008387096774193548,Negativo (subió),True
+06,Colima,La sociedad,Corrupción de menores,38,51,13,0.34210526315789475,Negativo (subió),True
+28,Tamaulipas,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,242,255,13,0.05371900826446281,Negativo (subió),True
+22,Querétaro,El patrimonio,Daño a la propiedad,1615,1628,13,0.00804953560371517,Negativo (subió),True
+30,Veracruz,La sociedad,Corrupción de menores,40,53,13,0.325,Negativo (subió),True
+16,Michoacán,El patrimonio,Abuso de confianza,765,778,13,0.01699346405228758,Negativo (subió),True
+16,Michoacán,Libertad personal,Secuestro,29,42,13,0.4482758620689655,Negativo (subió),False
+32,Zacatecas,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,152,165,13,0.08552631578947369,Negativo (subió),True
+08,Chihuahua,La sociedad,Trata de personas,40,53,13,0.325,Negativo (subió),True
+17,Morelos,Libertad personal,Secuestro,7,20,13,1.8571428571428572,Negativo (subió),False
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Falsedad,42,56,14,0.3333333333333333,Negativo (subió),True
+12,Guerrero,La libertad y la seguridad sexual,Violación simple,179,193,14,0.0782122905027933,Negativo (subió),True
+12,Guerrero,La libertad y la seguridad sexual,Acoso sexual,156,170,14,0.08974358974358974,Negativo (subió),True
+29,Tlaxcala,El patrimonio,Fraude,11,25,14,1.2727272727272727,Negativo (subió),False
+07,Chiapas,La sociedad,Corrupción de menores,3,17,14,4.666666666666667,Negativo (subió),False
+25,Sinaloa,El patrimonio,Extorsión,89,104,15,0.16853932584269662,Negativo (subió),True
+03,Baja California Sur,La sociedad,Corrupción de menores,67,82,15,0.22388059701492538,Negativo (subió),True
+13,Hidalgo,La sociedad,Otros delitos contra la sociedad,14,29,15,1.0714285714285714,Negativo (subió),False
+20,Oaxaca,La libertad y la seguridad sexual,Violación equiparada,293,308,15,0.051194539249146756,Negativo (subió),True
+11,Guanajuato,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,22,37,15,0.6818181818181818,Negativo (subió),False
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,41,56,15,0.36585365853658536,Negativo (subió),True
+17,Morelos,La familia,Incumplimiento de obligaciones de asistencia familiar,372,387,15,0.04032258064516129,Negativo (subió),True
+31,Yucatán,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,26,42,16,0.6153846153846154,Negativo (subió),False
+02,Baja California,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,11,27,16,1.4545454545454546,Negativo (subió),False
+28,Tamaulipas,La sociedad,Corrupción de menores,24,40,16,0.6666666666666666,Negativo (subió),False
+12,Guerrero,La sociedad,Trata de personas,7,23,16,2.2857142857142856,Negativo (subió),False
+32,Zacatecas,La libertad y la seguridad sexual,Violación equiparada,114,130,16,0.14035087719298245,Negativo (subió),True
+06,Colima,El patrimonio,Otros delitos contra el patrimonio,197,214,17,0.08629441624365482,Negativo (subió),True
+32,Zacatecas,El patrimonio,Fraude,1660,1677,17,0.010240963855421687,Negativo (subió),True
+12,Guerrero,La libertad y la seguridad sexual,Violación equiparada,173,190,17,0.09826589595375723,Negativo (subió),True
+11,Guanajuato,La sociedad,Trata de personas,4,21,17,4.25,Negativo (subió),False
+17,Morelos,El patrimonio,Otros delitos contra el patrimonio,620,637,17,0.027419354838709678,Negativo (subió),True
+06,Colima,La familia,Incumplimiento de obligaciones de asistencia familiar,771,789,18,0.023346303501945526,Negativo (subió),True
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,155,173,18,0.11612903225806452,Negativo (subió),True
+27,Tabasco,La sociedad,Corrupción de menores,32,51,19,0.59375,Negativo (subió),True
+21,Puebla,Libertad personal,Otros delitos que atentan contra la libertad personal,226,245,19,0.084070796460177,Negativo (subió),True
+29,Tlaxcala,La familia,Incumplimiento de obligaciones de asistencia familiar,21,40,19,0.9047619047619048,Negativo (subió),False
+01,Aguascalientes,La sociedad,Corrupción de menores,62,81,19,0.3064516129032258,Negativo (subió),True
+29,Tlaxcala,La vida y la Integridad corporal,Lesiones,128,148,20,0.15625,Negativo (subió),True
+08,Chihuahua,Libertad personal,Secuestro,51,71,20,0.39215686274509803,Negativo (subió),True
+17,Morelos,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,52,72,20,0.38461538461538464,Negativo (subió),True
+07,Chiapas,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,109,129,20,0.1834862385321101,Negativo (subió),True
+22,Querétaro,Otros bienes jurídicos afectados (del fuero común),Falsificación,194,214,20,0.10309278350515463,Negativo (subió),True
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,68,89,21,0.3088235294117647,Negativo (subió),True
+26,Sonora,La familia,Incumplimiento de obligaciones de asistencia familiar,2551,2572,21,0.008232065856526851,Negativo (subió),True
+05,Coahuila,La sociedad,Corrupción de menores,31,52,21,0.6774193548387096,Negativo (subió),True
+29,Tlaxcala,La familia,Violencia familiar,28,49,21,0.75,Negativo (subió),False
+16,Michoacán,La libertad y la seguridad sexual,Hostigamiento sexual,34,56,22,0.6470588235294118,Negativo (subió),True
+19,Nuevo León,Otros bienes jurídicos afectados (del fuero común),Falsedad,213,235,22,0.10328638497652583,Negativo (subió),True
+25,Sinaloa,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,155,177,22,0.14193548387096774,Negativo (subió),True
+21,Puebla,La libertad y la seguridad sexual,Violación equiparada,286,308,22,0.07692307692307693,Negativo (subió),True
+12,Guerrero,La familia,Otros delitos contra la familia,176,199,23,0.13068181818181818,Negativo (subió),True
+11,Guanajuato,La libertad y la seguridad sexual,Acoso sexual,417,440,23,0.05515587529976019,Negativo (subió),True
+22,Querétaro,El patrimonio,Fraude,4588,4612,24,0.0052310374891020054,Negativo (subió),True
+25,Sinaloa,El patrimonio,Despojo,507,531,24,0.047337278106508875,Negativo (subió),True
+20,Oaxaca,La sociedad,Corrupción de menores,29,53,24,0.8275862068965517,Negativo (subió),False
+02,Baja California,La vida y la Integridad corporal,Aborto,41,65,24,0.5853658536585366,Negativo (subió),True
+04,Campeche,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,18,42,24,1.3333333333333333,Negativo (subió),False
+05,Coahuila,El patrimonio,Extorsión,51,76,25,0.49019607843137253,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,128,154,26,0.203125,Negativo (subió),True
+27,Tabasco,El patrimonio,Despojo,483,510,27,0.055900621118012424,Negativo (subió),True
+17,Morelos,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,301,328,27,0.08970099667774087,Negativo (subió),True
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,295,322,27,0.09152542372881356,Negativo (subió),True
+19,Nuevo León,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,339,367,28,0.08259587020648967,Negativo (subió),True
+05,Coahuila,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,43,71,28,0.6511627906976745,Negativo (subió),True
+14,Jalisco,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,198,226,28,0.1414141414141414,Negativo (subió),True
+21,Puebla,El patrimonio,Otros delitos contra el patrimonio,214,243,29,0.13551401869158877,Negativo (subió),True
+22,Querétaro,El patrimonio,Abuso de confianza,774,804,30,0.03875968992248062,Negativo (subió),True
+13,Hidalgo,La sociedad,Corrupción de menores,70,100,30,0.42857142857142855,Negativo (subió),True
+20,Oaxaca,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,223,253,30,0.13452914798206278,Negativo (subió),True
+27,Tabasco,La familia,Otros delitos contra la familia,9,39,30,3.3333333333333335,Negativo (subió),False
+15,Estado de México,La vida y la Integridad corporal,Aborto,108,139,31,0.28703703703703703,Negativo (subió),True
+18,Nayarit,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,1331,1362,31,0.02329075882794891,Negativo (subió),True
+31,Yucatán,El patrimonio,Abuso de confianza,77,108,31,0.4025974025974026,Negativo (subió),True
+27,Tabasco,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,517,549,32,0.061895551257253385,Negativo (subió),True
+02,Baja California,Otros bienes jurídicos afectados (del fuero común),Falsedad,220,252,32,0.14545454545454545,Negativo (subió),True
+18,Nayarit,El patrimonio,Extorsión,15,47,32,2.1333333333333333,Negativo (subió),False
+23,Quintana Roo,El patrimonio,Extorsión,175,207,32,0.18285714285714286,Negativo (subió),True
+22,Querétaro,El patrimonio,Extorsión,236,268,32,0.13559322033898305,Negativo (subió),True
+28,Tamaulipas,El patrimonio,Despojo,480,513,33,0.06875,Negativo (subió),True
+16,Michoacán,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,313,346,33,0.10543130990415335,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Falsedad,315,348,33,0.10476190476190476,Negativo (subió),True
+32,Zacatecas,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,337,370,33,0.09792284866468842,Negativo (subió),True
+18,Nayarit,La vida y la Integridad corporal,Homicidio,386,419,33,0.08549222797927461,Negativo (subió),True
+23,Quintana Roo,El patrimonio,Fraude,256,290,34,0.1328125,Negativo (subió),True
+32,Zacatecas,La familia,Incumplimiento de obligaciones de asistencia familiar,784,818,34,0.04336734693877551,Negativo (subió),True
+16,Michoacán,El patrimonio,Despojo,834,869,35,0.04196642685851319,Negativo (subió),True
+16,Michoacán,La libertad y la seguridad sexual,Acoso sexual,203,238,35,0.1724137931034483,Negativo (subió),True
+20,Oaxaca,La familia,Incumplimiento de obligaciones de asistencia familiar,224,259,35,0.15625,Negativo (subió),True
+12,Guerrero,El patrimonio,Fraude,846,882,36,0.0425531914893617,Negativo (subió),True
+12,Guerrero,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,203,239,36,0.17733990147783252,Negativo (subió),True
+17,Morelos,El patrimonio,Abuso de confianza,595,631,36,0.06050420168067227,Negativo (subió),True
+08,Chihuahua,La sociedad,Otros delitos contra la sociedad,98,134,36,0.3673469387755102,Negativo (subió),True
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,129,166,37,0.2868217054263566,Negativo (subió),True
+24,San Luis Potosí,La libertad y la seguridad sexual,Acoso sexual,307,344,37,0.12052117263843648,Negativo (subió),True
+27,Tabasco,La libertad y la seguridad sexual,Hostigamiento sexual,190,227,37,0.19473684210526315,Negativo (subió),True
+23,Quintana Roo,La sociedad,Trata de personas,128,165,37,0.2890625,Negativo (subió),True
+17,Morelos,La sociedad,Corrupción de menores,42,79,37,0.8809523809523809,Negativo (subió),True
+21,Puebla,La libertad y la seguridad sexual,Violación simple,419,457,38,0.09069212410501193,Negativo (subió),True
+19,Nuevo León,La libertad y la seguridad sexual,Abuso sexual,1536,1574,38,0.024739583333333332,Negativo (subió),True
+28,Tamaulipas,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,493,531,38,0.07707910750507099,Negativo (subió),True
+08,Chihuahua,La libertad y la seguridad sexual,Violación equiparada,300,339,39,0.13,Negativo (subió),True
+23,Quintana Roo,La libertad y la seguridad sexual,Acoso sexual,296,335,39,0.13175675675675674,Negativo (subió),True
+18,Nayarit,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,116,156,40,0.3448275862068966,Negativo (subió),True
+03,Baja California Sur,Libertad personal,Otros delitos que atentan contra la libertad personal,132,173,41,0.3106060606060606,Negativo (subió),True
+24,San Luis Potosí,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,163,204,41,0.25153374233128833,Negativo (subió),True
+14,Jalisco,La sociedad,Corrupción de menores,126,168,42,0.3333333333333333,Negativo (subió),True
+08,Chihuahua,La sociedad,Corrupción de menores,157,199,42,0.267515923566879,Negativo (subió),True
+25,Sinaloa,La vida y la Integridad corporal,Feminicidio,26,68,42,1.6153846153846154,Negativo (subió),False
+19,Nuevo León,La vida y la Integridad corporal,Aborto,175,218,43,0.24571428571428572,Negativo (subió),True
+17,Morelos,La sociedad,Otros delitos contra la sociedad,45,89,44,0.9777777777777777,Negativo (subió),True
+22,Querétaro,El patrimonio,Despojo,766,810,44,0.057441253263707574,Negativo (subió),True
+29,Tlaxcala,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,73,117,44,0.6027397260273972,Negativo (subió),True
+30,Veracruz,Otros bienes jurídicos afectados (del fuero común),Electorales,37,81,44,1.1891891891891893,Negativo (subió),True
+16,Michoacán,La libertad y la seguridad sexual,Abuso sexual,580,625,45,0.07758620689655173,Negativo (subió),True
+05,Coahuila,Otros bienes jurídicos afectados (del fuero común),Falsificación,130,175,45,0.34615384615384615,Negativo (subió),True
+25,Sinaloa,El patrimonio,Fraude,1017,1062,45,0.04424778761061947,Negativo (subió),True
+03,Baja California Sur,El patrimonio,Extorsión,93,138,45,0.4838709677419355,Negativo (subió),True
+18,Nayarit,Libertad personal,Otros delitos que atentan contra la libertad personal,80,125,45,0.5625,Negativo (subió),True
+15,Estado de México,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,1820,1865,45,0.024725274725274724,Negativo (subió),True
+31,Yucatán,La familia,Incumplimiento de obligaciones de asistencia familiar,121,168,47,0.3884297520661157,Negativo (subió),True
+05,Coahuila,La libertad y la seguridad sexual,Violación simple,97,144,47,0.4845360824742268,Negativo (subió),True
+24,San Luis Potosí,El patrimonio,Extorsión,128,176,48,0.375,Negativo (subió),True
+23,Quintana Roo,La familia,Otros delitos contra la familia,826,874,48,0.05811138014527845,Negativo (subió),True
+07,Chiapas,La libertad y la seguridad sexual,Violación simple,220,268,48,0.21818181818181817,Negativo (subió),True
+17,Morelos,La familia,Violencia familiar,5759,5807,48,0.008334780343809689,Negativo (subió),True
+30,Veracruz,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,2539,2587,48,0.018905080740448995,Negativo (subió),True
+22,Querétaro,La libertad y la seguridad sexual,Acoso sexual,761,810,49,0.06438896189224705,Negativo (subió),True
+23,Quintana Roo,Libertad personal,Otros delitos que atentan contra la libertad personal,1316,1366,50,0.037993920972644375,Negativo (subió),True
+31,Yucatán,El patrimonio,Despojo,39,89,50,1.2820512820512822,Negativo (subió),True
+22,Querétaro,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,254,304,50,0.1968503937007874,Negativo (subió),True
+22,Querétaro,El patrimonio,Otros delitos contra el patrimonio,176,227,51,0.2897727272727273,Negativo (subió),True
+17,Morelos,La libertad y la seguridad sexual,Hostigamiento sexual,66,117,51,0.7727272727272727,Negativo (subió),True
+05,Coahuila,Libertad personal,Otros delitos que atentan contra la libertad personal,272,324,52,0.19117647058823528,Negativo (subió),True
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,616,668,52,0.08441558441558442,Negativo (subió),True
+26,Sonora,El patrimonio,Otros delitos contra el patrimonio,420,472,52,0.12380952380952381,Negativo (subió),True
+21,Puebla,Otros bienes jurídicos afectados (del fuero común),Electorales,58,111,53,0.9137931034482759,Negativo (subió),True
+27,Tabasco,El patrimonio,Extorsión,144,197,53,0.3680555555555556,Negativo (subió),True
+27,Tabasco,El patrimonio,Abuso de confianza,635,689,54,0.08503937007874016,Negativo (subió),True
+19,Nuevo León,La familia,Incumplimiento de obligaciones de asistencia familiar,770,825,55,0.07142857142857142,Negativo (subió),True
+08,Chihuahua,El patrimonio,Abuso de confianza,1342,1397,55,0.040983606557377046,Negativo (subió),True
+23,Quintana Roo,El patrimonio,Despojo,776,832,56,0.07216494845360824,Negativo (subió),True
+13,Hidalgo,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,330,388,58,0.17575757575757575,Negativo (subió),True
+03,Baja California Sur,El patrimonio,Despojo,386,444,58,0.15025906735751296,Negativo (subió),True
+09,Ciudad de México,La vida y la Integridad corporal,Aborto,185,244,59,0.31891891891891894,Negativo (subió),True
+21,Puebla,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,168,227,59,0.35119047619047616,Negativo (subió),True
+05,Coahuila,La libertad y la seguridad sexual,Acoso sexual,481,541,60,0.12474012474012475,Negativo (subió),True
+01,Aguascalientes,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,60,120,60,1.0,Negativo (subió),True
+28,Tamaulipas,La familia,Incumplimiento de obligaciones de asistencia familiar,1506,1566,60,0.0398406374501992,Negativo (subió),True
+17,Morelos,El patrimonio,Despojo,996,1056,60,0.060240963855421686,Negativo (subió),True
+08,Chihuahua,Libertad personal,Otros delitos que atentan contra la libertad personal,851,913,62,0.07285546415981199,Negativo (subió),True
+07,Chiapas,El patrimonio,Extorsión,22,85,63,2.8636363636363638,Negativo (subió),False
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,240,305,65,0.2708333333333333,Negativo (subió),True
+03,Baja California Sur,Otros bienes jurídicos afectados (del fuero común),Falsificación,73,144,71,0.9726027397260274,Negativo (subió),True
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,158,229,71,0.44936708860759494,Negativo (subió),True
+19,Nuevo León,El patrimonio,Extorsión,866,940,74,0.08545034642032333,Negativo (subió),True
+26,Sonora,El patrimonio,Abuso de confianza,128,202,74,0.578125,Negativo (subió),True
+30,Veracruz,El patrimonio,Otros delitos contra el patrimonio,771,845,74,0.0959792477302205,Negativo (subió),True
+01,Aguascalientes,Otros bienes jurídicos afectados (del fuero común),Falsificación,220,295,75,0.3409090909090909,Negativo (subió),True
+14,Jalisco,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,1236,1311,75,0.06067961165048544,Negativo (subió),True
+08,Chihuahua,La libertad y la seguridad sexual,Acoso sexual,364,440,76,0.2087912087912088,Negativo (subió),True
+23,Quintana Roo,La familia,Incumplimiento de obligaciones de asistencia familiar,564,640,76,0.1347517730496454,Negativo (subió),True
+09,Ciudad de México,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,4276,4352,76,0.01777362020579981,Negativo (subió),True
+12,Guerrero,La familia,Incumplimiento de obligaciones de asistencia familiar,408,487,79,0.19362745098039216,Negativo (subió),True
+13,Hidalgo,La libertad y la seguridad sexual,Hostigamiento sexual,175,255,80,0.45714285714285713,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,544,625,81,0.1488970588235294,Negativo (subió),True
+05,Coahuila,El patrimonio,Fraude,2457,2538,81,0.03296703296703297,Negativo (subió),True
+07,Chiapas,El patrimonio,Otros delitos contra el patrimonio,40,122,82,2.05,Negativo (subió),True
+04,Campeche,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,350,433,83,0.23714285714285716,Negativo (subió),True
+03,Baja California Sur,La vida y la Integridad corporal,Homicidio,142,228,86,0.6056338028169014,Negativo (subió),True
+24,San Luis Potosí,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,3408,3494,86,0.02523474178403756,Negativo (subió),True
+31,Yucatán,La vida y la Integridad corporal,Lesiones,236,323,87,0.3686440677966102,Negativo (subió),True
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Falsificación,138,225,87,0.6304347826086957,Negativo (subió),True
+02,Baja California,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,2369,2458,89,0.0375685943436049,Negativo (subió),True
+21,Puebla,La familia,Violencia familiar,10461,10551,90,0.008603383997705764,Negativo (subió),True
+13,Hidalgo,La libertad y la seguridad sexual,Abuso sexual,672,762,90,0.13392857142857142,Negativo (subió),True
+19,Nuevo León,La libertad y la seguridad sexual,Acoso sexual,743,834,91,0.1224764468371467,Negativo (subió),True
+16,Michoacán,La libertad y la seguridad sexual,Violación equiparada,165,256,91,0.5515151515151515,Negativo (subió),True
+14,Jalisco,La libertad y la seguridad sexual,Abuso sexual,5323,5415,92,0.017283486755588953,Negativo (subió),True
+19,Nuevo León,La sociedad,Corrupción de menores,260,353,93,0.3576923076923077,Negativo (subió),True
+05,Coahuila,La familia,Otros delitos contra la familia,37,131,94,2.5405405405405403,Negativo (subió),True
+30,Veracruz,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,755,849,94,0.12450331125827814,Negativo (subió),True
+28,Tamaulipas,La vida y la Integridad corporal,Lesiones,3773,3869,96,0.02544394381129075,Negativo (subió),True
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Falsedad,146,242,96,0.6575342465753424,Negativo (subió),True
+17,Morelos,El patrimonio,Extorsión,322,419,97,0.30124223602484473,Negativo (subió),True
+27,Tabasco,El patrimonio,Fraude,1329,1426,97,0.07298720842738901,Negativo (subió),True
+24,San Luis Potosí,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,552,653,101,0.18297101449275363,Negativo (subió),True
+28,Tamaulipas,Otros bienes jurídicos afectados (del fuero común),Falsificación,153,254,101,0.6601307189542484,Negativo (subió),True
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Falsificación,178,280,102,0.5730337078651685,Negativo (subió),True
+05,Coahuila,La familia,Incumplimiento de obligaciones de asistencia familiar,252,354,102,0.40476190476190477,Negativo (subió),True
+24,San Luis Potosí,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,608,712,104,0.17105263157894737,Negativo (subió),True
+09,Ciudad de México,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,1016,1120,104,0.10236220472440945,Negativo (subió),True
+21,Puebla,La sociedad,Otros delitos contra la sociedad,341,446,105,0.30791788856304986,Negativo (subió),True
+05,Coahuila,Otros bienes jurídicos afectados (del fuero común),Allanamiento de morada,736,843,107,0.1453804347826087,Negativo (subió),True
+32,Zacatecas,Otros bienes jurídicos afectados (del fuero común),Amenazas,1346,1453,107,0.07949479940564635,Negativo (subió),True
+25,Sinaloa,La familia,Otros delitos contra la familia,181,289,108,0.5966850828729282,Negativo (subió),True
+30,Veracruz,La vida y la Integridad corporal,Homicidio,1767,1875,108,0.06112054329371817,Negativo (subió),True
+29,Tlaxcala,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,141,254,113,0.8014184397163121,Negativo (subió),True
+21,Puebla,El patrimonio,Extorsión,129,244,115,0.8914728682170543,Negativo (subió),True
+31,Yucatán,El patrimonio,Fraude,86,202,116,1.3488372093023255,Negativo (subió),True
+16,Michoacán,El patrimonio,Fraude,2499,2616,117,0.0468187274909964,Negativo (subió),True
+26,Sonora,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,506,623,117,0.23122529644268774,Negativo (subió),True
+26,Sonora,Libertad personal,Otros delitos que atentan contra la libertad personal,569,692,123,0.21616871704745166,Negativo (subió),True
+09,Ciudad de México,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,892,1015,123,0.13789237668161436,Negativo (subió),True
+31,Yucatán,Otros bienes jurídicos afectados (del fuero común),Amenazas,668,791,123,0.18413173652694612,Negativo (subió),True
+11,Guanajuato,La libertad y la seguridad sexual,Violación simple,872,999,127,0.14564220183486237,Negativo (subió),True
+28,Tamaulipas,El patrimonio,Daño a la propiedad,4159,4286,127,0.030536186583313297,Negativo (subió),True
+02,Baja California,La familia,Incumplimiento de obligaciones de asistencia familiar,1351,1481,130,0.09622501850481126,Negativo (subió),True
+16,Michoacán,La familia,Incumplimiento de obligaciones de asistencia familiar,263,399,136,0.5171102661596958,Negativo (subió),True
+21,Puebla,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,767,903,136,0.1773142112125163,Negativo (subió),True
+21,Puebla,El patrimonio,Abuso de confianza,1293,1431,138,0.10672853828306264,Negativo (subió),True
+32,Zacatecas,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,409,549,140,0.3422982885085575,Negativo (subió),True
+17,Morelos,El patrimonio,Fraude,2192,2333,141,0.06432481751824817,Negativo (subió),True
+16,Michoacán,Otros bienes jurídicos afectados (del fuero común),Falsificación,530,672,142,0.2679245283018868,Negativo (subió),True
+23,Quintana Roo,El patrimonio,Daño a la propiedad,5821,5964,143,0.024566225734409895,Negativo (subió),True
+15,Estado de México,El patrimonio,Otros delitos contra el patrimonio,466,609,143,0.30686695278969955,Negativo (subió),True
+10,Durango,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,807,950,143,0.1771995043370508,Negativo (subió),True
+28,Tamaulipas,El patrimonio,Fraude,1755,1901,146,0.08319088319088319,Negativo (subió),True
+03,Baja California Sur,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,1158,1306,148,0.12780656303972365,Negativo (subió),True
+03,Baja California Sur,Otros bienes jurídicos afectados (del fuero común),Amenazas,2250,2398,148,0.06577777777777778,Negativo (subió),True
+03,Baja California Sur,El patrimonio,Fraude,1716,1866,150,0.08741258741258741,Negativo (subió),True
+06,Colima,El patrimonio,Daño a la propiedad,3016,3167,151,0.05006631299734748,Negativo (subió),True
+19,Nuevo León,El patrimonio,Despojo,1235,1387,152,0.12307692307692308,Negativo (subió),True
+05,Coahuila,El patrimonio,Despojo,381,534,153,0.4015748031496063,Negativo (subió),True
+09,Ciudad de México,El patrimonio,Despojo,3643,3798,155,0.042547351084271205,Negativo (subió),True
+11,Guanajuato,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,991,1146,155,0.15640766902119072,Negativo (subió),True
+23,Quintana Roo,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,502,663,161,0.3207171314741036,Negativo (subió),True
+25,Sinaloa,Libertad personal,Otros delitos que atentan contra la libertad personal,1599,1764,165,0.10318949343339587,Negativo (subió),True
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,209,375,166,0.7942583732057417,Negativo (subió),True
+12,Guerrero,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,718,886,168,0.233983286908078,Negativo (subió),True
+11,Guanajuato,La sociedad,Corrupción de menores,494,663,169,0.34210526315789475,Negativo (subió),True
+05,Coahuila,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,76,246,170,2.236842105263158,Negativo (subió),True
+12,Guerrero,Otros bienes jurídicos afectados (del fuero común),Amenazas,2953,3124,171,0.057907213003725026,Negativo (subió),True
+12,Guerrero,La vida y la Integridad corporal,Lesiones,3345,3518,173,0.05171898355754858,Negativo (subió),True
+05,Coahuila,El patrimonio,Abuso de confianza,619,794,175,0.2827140549273021,Negativo (subió),True
+11,Guanajuato,La familia,Incumplimiento de obligaciones de asistencia familiar,2713,2891,178,0.06561002580169555,Negativo (subió),True
+22,Querétaro,La sociedad,Otros delitos contra la sociedad,415,593,178,0.42891566265060244,Negativo (subió),True
+09,Ciudad de México,El patrimonio,Abuso de confianza,3733,3919,186,0.04982587731047415,Negativo (subió),True
+30,Veracruz,La familia,Violencia de género en todas sus modalidades distinta a la violencia familiar,2046,2233,187,0.0913978494623656,Negativo (subió),True
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,885,1076,191,0.21581920903954802,Negativo (subió),True
+20,Oaxaca,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,529,722,193,0.3648393194706994,Negativo (subió),True
+25,Sinaloa,La sociedad,Otros delitos contra la sociedad,98,293,195,1.989795918367347,Negativo (subió),True
+27,Tabasco,La familia,Incumplimiento de obligaciones de asistencia familiar,1013,1213,200,0.19743336623889438,Negativo (subió),True
+23,Quintana Roo,La vida y la Integridad corporal,Lesiones,4881,5081,200,0.04097520999795124,Negativo (subió),True
+17,Morelos,La vida y la Integridad corporal,Lesiones,3906,4110,204,0.05222734254992319,Negativo (subió),True
+08,Chihuahua,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,2202,2409,207,0.09400544959128065,Negativo (subió),True
+23,Quintana Roo,La familia,Violencia familiar,7195,7404,209,0.029047949965253648,Negativo (subió),True
+21,Puebla,Otros bienes jurídicos afectados (del fuero común),Falsedad,117,327,210,1.794871794871795,Negativo (subió),True
+27,Tabasco,La vida y la Integridad corporal,Lesiones,4549,4760,211,0.046383820619916465,Negativo (subió),True
+31,Yucatán,El patrimonio,Robo,510,724,214,0.4196078431372549,Negativo (subió),True
+26,Sonora,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,2157,2371,214,0.09921186833565136,Negativo (subió),True
+06,Colima,La vida y la Integridad corporal,Lesiones,1939,2153,214,0.11036616812790098,Negativo (subió),True
+13,Hidalgo,El patrimonio,Abuso de confianza,298,519,221,0.7416107382550335,Negativo (subió),True
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,635,858,223,0.35118110236220473,Negativo (subió),True
+16,Michoacán,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,1781,2019,238,0.13363279056709715,Negativo (subió),True
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,2476,2717,241,0.09733441033925687,Negativo (subió),True
+11,Guanajuato,El patrimonio,Abuso de confianza,1848,2092,244,0.13203463203463203,Negativo (subió),True
+11,Guanajuato,El patrimonio,Extorsión,1027,1275,248,0.24148003894839337,Negativo (subió),True
+12,Guerrero,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,989,1242,253,0.2558139534883721,Negativo (subió),True
+19,Nuevo León,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,1576,1830,254,0.16116751269035534,Negativo (subió),True
+15,Estado de México,La libertad y la seguridad sexual,Violación equiparada,541,803,262,0.48428835489833644,Negativo (subió),True
+16,Michoacán,La familia,Violencia familiar,1456,1720,264,0.1813186813186813,Negativo (subió),True
+21,Puebla,El patrimonio,Despojo,1265,1536,271,0.21422924901185772,Negativo (subió),True
+11,Guanajuato,El patrimonio,Despojo,1390,1671,281,0.20215827338129497,Negativo (subió),True
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Delitos cometidos por servidores públicos,527,809,282,0.5351043643263758,Negativo (subió),True
+19,Nuevo León,La familia,Violencia familiar,19184,19471,287,0.014960383653044203,Negativo (subió),True
+11,Guanajuato,La libertad y la seguridad sexual,Abuso sexual,1359,1647,288,0.2119205298013245,Negativo (subió),True
+19,Nuevo León,Otros bienes jurídicos afectados (del fuero común),Contra el medio ambiente,37,327,290,7.837837837837838,Negativo (subió),True
+17,Morelos,Libertad personal,Otros delitos que atentan contra la libertad personal,198,493,295,1.4898989898989898,Negativo (subió),True
+28,Tamaulipas,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,231,532,301,1.303030303030303,Negativo (subió),True
+05,Coahuila,La sociedad,Otros delitos contra la sociedad,0,302,302,,Negativo (subió),False
+21,Puebla,La libertad y la seguridad sexual,Otros delitos que atentan contra la libertad y la seguridad sexual,1620,1932,312,0.1925925925925926,Negativo (subió),True
+13,Hidalgo,El patrimonio,Despojo,696,1010,314,0.4511494252873563,Negativo (subió),True
+11,Guanajuato,El patrimonio,Fraude,5150,5473,323,0.06271844660194174,Negativo (subió),True
+05,Coahuila,El patrimonio,Robo,5587,5910,323,0.057812779667084306,Negativo (subió),True
+25,Sinaloa,La vida y la Integridad corporal,Lesiones,4337,4682,345,0.07954807470601799,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Falsificación,1056,1403,347,0.32859848484848486,Negativo (subió),True
+21,Puebla,Otros bienes jurídicos afectados (del fuero común),Falsificación,310,672,362,1.167741935483871,Negativo (subió),True
+14,Jalisco,Otros bienes jurídicos afectados (del fuero común),Falsificación,1230,1594,364,0.2959349593495935,Negativo (subió),True
+31,Yucatán,El patrimonio,Daño a la propiedad,680,1045,365,0.5367647058823529,Negativo (subió),True
+08,Chihuahua,La vida y la Integridad corporal,Lesiones,6753,7133,380,0.05627128683548053,Negativo (subió),True
+13,Hidalgo,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,155,540,385,2.4838709677419355,Negativo (subió),True
+31,Yucatán,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,367,756,389,1.0599455040871935,Negativo (subió),True
+06,Colima,Otros bienes jurídicos afectados (del fuero común),Amenazas,2504,2897,393,0.15694888178913738,Negativo (subió),True
+24,San Luis Potosí,La familia,Violencia familiar,9562,9964,402,0.04204141393014014,Negativo (subió),True
+21,Puebla,El patrimonio,Robo,32344,32758,414,0.012799901063566658,Negativo (subió),True
+27,Tabasco,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,477,897,420,0.8805031446540881,Negativo (subió),True
+27,Tabasco,El patrimonio,Otros delitos contra el patrimonio,211,631,420,1.990521327014218,Negativo (subió),True
+02,Baja California,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,8180,8622,442,0.05403422982885086,Negativo (subió),True
+14,Jalisco,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,1983,2443,460,0.23197175995965708,Negativo (subió),True
+13,Hidalgo,La familia,Incumplimiento de obligaciones de asistencia familiar,762,1223,461,0.60498687664042,Negativo (subió),True
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,717,1182,465,0.6485355648535565,Negativo (subió),True
+11,Guanajuato,El patrimonio,Robo,31658,32128,470,0.014846168425042643,Negativo (subió),True
+08,Chihuahua,La vida y la Integridad corporal,Otros delitos que atentan contra la vida y la integridad corporal,411,882,471,1.145985401459854,Negativo (subió),True
+19,Nuevo León,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,8158,8636,478,0.05859279235106644,Negativo (subió),True
+21,Puebla,El patrimonio,Daño a la propiedad,3729,4220,491,0.13167068919281308,Negativo (subió),True
+13,Hidalgo,El patrimonio,Robo,11349,11860,511,0.04502599347960173,Negativo (subió),True
+06,Colima,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,1441,1953,512,0.3553088133240805,Negativo (subió),True
+25,Sinaloa,La vida y la Integridad corporal,Homicidio,1419,1934,515,0.3629316420014094,Negativo (subió),True
+25,Sinaloa,Otros bienes jurídicos afectados (del fuero común),Amenazas,1945,2462,517,0.26580976863753214,Negativo (subió),True
+17,Morelos,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,2271,2808,537,0.23645970937912814,Negativo (subió),True
+19,Nuevo León,La familia,Otros delitos contra la familia,5103,5641,538,0.10542817950225358,Negativo (subió),True
+05,Coahuila,La vida y la Integridad corporal,Lesiones,5598,6142,544,0.09717756341550554,Negativo (subió),True
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Amenazas,4120,4673,553,0.1342233009708738,Negativo (subió),True
+26,Sonora,El patrimonio,Fraude,690,1245,555,0.8043478260869565,Negativo (subió),True
+17,Morelos,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,493,1058,565,1.1460446247464504,Negativo (subió),True
+11,Guanajuato,El patrimonio,Otros delitos contra el patrimonio,149,728,579,3.8859060402684564,Negativo (subió),True
+01,Aguascalientes,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,2182,2778,596,0.27314390467461047,Negativo (subió),True
+13,Hidalgo,El patrimonio,Daño a la propiedad,2660,3268,608,0.22857142857142856,Negativo (subió),True
+15,Estado de México,El patrimonio,Abuso de confianza,4712,5361,649,0.13773344651952463,Negativo (subió),True
+15,Estado de México,El patrimonio,Despojo,4936,5594,658,0.13330632090761751,Negativo (subió),True
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,330,992,662,2.006060606060606,Negativo (subió),True
+11,Guanajuato,La familia,Violencia familiar,15958,16626,668,0.04185988219075072,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,20211,20881,670,0.03315026470733759,Negativo (subió),True
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Amenazas,3426,4118,692,0.20198482194979567,Negativo (subió),True
+11,Guanajuato,La vida y la Integridad corporal,Lesiones,16488,17201,713,0.04324357108199903,Negativo (subió),True
+16,Michoacán,Libertad personal,Otros delitos que atentan contra la libertad personal,386,1104,718,1.8601036269430051,Negativo (subió),True
+23,Quintana Roo,El patrimonio,Abuso de confianza,4165,4891,726,0.17430972388955582,Negativo (subió),True
+21,Puebla,El patrimonio,Fraude,4299,5028,729,0.16957431960921143,Negativo (subió),True
+22,Querétaro,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,1685,2415,730,0.4332344213649852,Negativo (subió),True
+02,Baja California,La familia,Violencia familiar,14729,15463,734,0.04983366148414692,Negativo (subió),True
+15,Estado de México,La sociedad,Otros delitos contra la sociedad,1749,2520,771,0.44082332761578047,Negativo (subió),True
+13,Hidalgo,La familia,Violencia familiar,6802,7645,843,0.12393413701852396,Negativo (subió),True
+06,Colima,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,1549,2399,850,0.5487411233053583,Negativo (subió),True
+23,Quintana Roo,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,2084,2950,866,0.41554702495201534,Negativo (subió),True
+13,Hidalgo,El patrimonio,Otros delitos contra el patrimonio,417,1315,898,2.1534772182254196,Negativo (subió),True
+14,Jalisco,La vida y la Integridad corporal,Lesiones,12981,13931,950,0.07318388413835605,Negativo (subió),True
+13,Hidalgo,El patrimonio,Fraude,1416,2461,1045,0.7379943502824858,Negativo (subió),True
+28,Tamaulipas,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,1923,3005,1082,0.5626625065002601,Negativo (subió),True
+22,Querétaro,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,4238,5338,1100,0.25955639452571966,Negativo (subió),True
+15,Estado de México,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,2489,3603,1114,0.4475693049417437,Negativo (subió),True
+09,Ciudad de México,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,4900,6030,1130,0.23061224489795917,Negativo (subió),True
+07,Chiapas,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,255,1411,1156,4.533333333333333,Negativo (subió),True
+09,Ciudad de México,El patrimonio,Extorsión,473,1704,1231,2.602536997885835,Negativo (subió),True
+26,Sonora,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,3999,5233,1234,0.3085771442860715,Negativo (subió),True
+05,Coahuila,El patrimonio,Daño a la propiedad,7708,9192,1484,0.1925272444213804,Negativo (subió),True
+13,Hidalgo,Otros bienes jurídicos afectados (del fuero común),Amenazas,3218,4717,1499,0.46581727781230575,Negativo (subió),True
+27,Tabasco,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,8610,10136,1526,0.1772357723577236,Negativo (subió),True
+05,Coahuila,La familia,Violencia familiar,13022,14664,1642,0.12609430195054522,Negativo (subió),True
+11,Guanajuato,El patrimonio,Daño a la propiedad,13209,14854,1645,0.12453630100688924,Negativo (subió),True
+05,Coahuila,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,2438,4116,1678,0.6882690730106645,Negativo (subió),True
+13,Hidalgo,La vida y la Integridad corporal,Lesiones,5346,7249,1903,0.3559670781893004,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Amenazas,13045,15267,2222,0.17033346109620545,Negativo (subió),True
+25,Sinaloa,El patrimonio,Robo,9141,11623,2482,0.27152390329285636,Negativo (subió),True
+11,Guanajuato,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,20984,24332,3348,0.1595501334349981,Negativo (subió),True
+05,Coahuila,Otros bienes jurídicos afectados (del fuero común),Amenazas,8851,13184,4333,0.4895492034798328,Negativo (subió),True
+24,San Luis Potosí,Otros bienes jurídicos afectados (del fuero común),Narcomenudeo,7426,12329,4903,0.6602477780770266,Negativo (subió),True
+15,Estado de México,Otros bienes jurídicos afectados (del fuero común),Otros delitos del Fuero Común,66670,87629,20959,0.3143692815359232,Negativo (subió),True
